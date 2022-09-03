@@ -6,7 +6,7 @@ package Day_0827;
  *반환 타입(X) 매개변수(O)
  *반환 타입(O) 매개변수(O)
  * */
-
+//오버로딩
 public class Exam_35 {
 	static int max(int a, int b) {
 		int max = (a>b) ? a : b;
